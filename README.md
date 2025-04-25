@@ -1,6 +1,6 @@
 # 📚 Biblioteca Pessoal
 
-Este é um projeto simples de **Biblioteca Pessoal**, desenvolvido no meu segundo período na cadeira de Linguagem de Programação como forma de praticar os conceitos iniciais de **Programação Orientada a Objetos (POO)** com a linguagem **Java**.
+Este é um projeto simples de **Biblioteca Pessoal**, desenvolvido no meu 2º período na cadeira de Linguagem de Programação como forma de praticar os conceitos iniciais de **Programação Orientada a Objetos (POO)** com a linguagem **Java**.
 
 ## Objetivo
 
